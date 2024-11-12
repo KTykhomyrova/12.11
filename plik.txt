@@ -1,2 +1,4 @@
 Linia 1
 Linia 2 z głównej gałęzi dla plik.txt
+
+
