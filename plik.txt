@@ -1,1 +1,2 @@
 Linia 1
+Linia druga z nowej gałęzi
