@@ -1,2 +1,3 @@
 Pierwsza linia
-linia z gałęzi B
+Linia z gałęzi A i B
+
